@@ -1,11 +1,11 @@
 <template>
    <section class="px-4 py-24 mx-auto max-w-7xl">
   <div class="w-full mx-auto text-left md:w-11/12 xl:w-9/12 md:text-center">
-    <h1 class="mb-6 text-5xl font-extrabold leading-none tracking-normal text-gray-900 dark:bg-base-300 md:text-6xl md:tracking-tight">
+    <h1 class="mb-6 text-5xl font-extrabold leading-none tracking-normal text-base dark:bg-base-300 md:text-6xl md:tracking-tight">
       Strategic <span class="block w-full text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-purple-500 lg:inline">digital solutions</span> for your business.
     </h1>
     <p class="px-0 mb-6 text-lg text-gray-600 md:text-xl lg:px-24">
-      Hellonext is a feature voting software where you can allow your users to vote on features, publish roadmap, and complete your customer feedback loop.
+      I consider myself a consultant. 
     </p>
     <div class="mb-4 space-x-0 md:space-x-2 md:mb-8">
       <a class="inline-flex items-center justify-center w-full mb-2 btn btn-primary btn-lg sm:w-auto sm:mb-0" href="#">
@@ -15,7 +15,7 @@
         </svg>
       </a>
       <a class="inline-flex items-center justify-center w-full mb-2 btn btn-light btn-lg sm:w-auto sm:mb-0" href="#">
-        Book a Demo
+        Schedule A Call 
         <svg class="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
           <path
             fill-rule="evenodd"
@@ -27,7 +27,7 @@
     </div>
   </div>
   <div class="w-full mx-auto mt-20 mb-20 text-center md:w-10/12">
-    <img src="https://i.ibb.co/N2tcm49/photo-2021-11-19-23-09-57-iphone12black-portrait.png" alt="Hellonext feedback boards software screenshot" class="w-full object-contain h-124 rounded-lg shadow-2xl" />
+    <img src="https://i.ibb.co/8mSq0xB/photo-2021-11-19-23-09-57-iphone12black-portrait.png" alt="Hellonext feedback boards software screenshot" class="w-full object-contain h-full rounded-lg shadow-2xl" />
   </div>
 
   

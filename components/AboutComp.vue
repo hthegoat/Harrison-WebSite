@@ -2,15 +2,14 @@
     <div>
     <div class="hero min-h-screen bg-base-200">
   <div class="flex-col hero-content lg:flex-row-reverse">
-    <img src="https://i.ibb.co/3mJMV4f/DSC0764-3-removebg-preview.png" class="max-w-sm rounded-lg shadow-2xl"> 
+    <img src="https://i.ibb.co/3mJMV4f/DSC0764-3-removebg-preview.png" class="max-w-sm bg-accent-focus rounded-lg shadow-2xl"> 
     <div>
       <h1 class="mb-5 text-5xl font-bold">
-            Hello there
+            Marketing Consultant & Entrepreneur
           </h1> 
       <p class="mb-5">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.
-          </p> 
-      <button class="btn btn-primary">Get Started</button>
+"Great Guy"          </p> 
+     
     </div>
   </div>
 </div>

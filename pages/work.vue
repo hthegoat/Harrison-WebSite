@@ -1,7 +1,8 @@
 <template>
 <div>
     <WorkComp />
-    <Work2 />
+    <HighChart />
+    <WorkCarousel />
     <WorkTest />
     <WorkLogos />
 </div>    

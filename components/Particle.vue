@@ -1,6 +1,7 @@
 <template>
     <div id="hero">
         <vue-particles
+        class="bg-neutral"
           color="#1b1e34"
           
           
