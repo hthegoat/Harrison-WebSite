@@ -1,64 +1,81 @@
 <template>
-    <div>
+<div>
+
+	<!--Breadcrumbs-->
+    <div class="text-sm breadcrumbs px-4 py-4">
+  		<ul>
+    		<li>
+      			<NuxtLink to="/">Home</NuxtLink>
+    		</li> 
+    		<li>
+      			<NuxtLink to="">About Me</NuxtLink>
+    		</li> 
+  		</ul>
+	</div>
+    
     <div class="hero min-h-screen bg-base-200">
+     
   <div class="flex-col hero-content lg:flex-row-reverse">
-    <img src="https://i.ibb.co/3mJMV4f/DSC0764-3-removebg-preview.png" class="max-w-sm bg-accent-focus rounded-lg shadow-2xl"> 
+
+    <img src="https://i.ibb.co/3mJMV4f/DSC07128-3-removebg-preview.png" class="max-w-sm bg-accent-focus rounded-lg shadow-2xl"> 
     <div>
-      <h1 class="mb-5 text-5xl font-bold">
+      <h1 class="mb-5 text-5xl text-center font-bold">
             Marketing Consultant & Entrepreneur
           </h1> 
-      <p class="mb-5">
-"Great Guy"          </p> 
+     
      
     </div>
+ 
+
+
   </div>
 </div>
 <div class="carousel rounded-box">
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/g6Jpvgw/sk8-f05eaa5.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/W6yB1rz/DSC8565.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/NLFcnH0/DSC4875.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/CPJZMXQ/DSC4225.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://www.harrisonkugler.com/_nuxt/img/surf2.27c1d5d.jpg">
   </div> 
-  <div class="carousel-item h-64">
-    <img src="https://i.ibb.co/cxt1J9F/247918476-10159864817081085-2762403899004344705-n.jpg">
+  <div class="carousel-item h-56">
+    <img src="https://i.ibb.co/cxt1J9F/247918476-10159856817081085-2762403899004344705-n.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/cNJ34P9/DSC6917-Edit-1.jpg">
   </div>
 </div>
 <div class="carousel rounded-box">
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/cNJ34P9/DSC6917-Edit-1.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/T1hj56p/DCIM-103-MEDIA-DJI-0514-JPG.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/GtKkBj7/DSC4945.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/NW2Vn2f/116031663-387977065517422-8071899823024625953-n.jpg">
   </div> 
-  <div class="carousel-item h-64">
-    <img src="https://i.ibb.co/3hvghF1/124026684-370287604237680-5585876580566453797-n.jpg">
+  <div class="carousel-item h-56">
+    <img src="https://i.ibb.co/3hvghF1/124026684-370287604237680-5585876580565653797-n.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/2gPVZST/234250967-10158838936744092-2316117574889270629-n.jpg">
   </div> 
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/y8kZ0tT/photo-1624977619596-73711215f869.jpg">
   </div>
-  <div class="carousel-item h-64">
+  <div class="carousel-item h-56">
     <img src="https://i.ibb.co/n7hTJYJ/photo-1606262113602-a7a977856205.jpg">
   </div>
 </div>
