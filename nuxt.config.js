@@ -33,6 +33,7 @@ export default {
   plugins: [
     '~/plugins/theme-change.js', 
     '~/plugins/vue-particles.js',
+    '~/plugins/alpinejs.js'
     
   ],
 

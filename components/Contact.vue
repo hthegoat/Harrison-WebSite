@@ -10,15 +10,15 @@
 		<form novalidate="" class="space-y-6 ng-untouched ng-pristine ng-valid">
 			<div>
 				<label for="name" class="text-sm">Full name</label>
-				<input id="name" type="text" placeholder="" class="w-full p-3 rounded bg-coolGray-100">
+				<input id="name" type="text" placeholder="" class="w-full p-3 rounded bg-base-300">
 			</div>
 			<div>
 				<label for="email" class="text-sm">Email</label>
-				<input id="email" type="email" class="w-full p-3 rounded bg-coolGray-100">
+				<input id="email" type="email" class="w-full p-3 rounded bg-base-300">
 			</div>
 			<div>
 				<label for="message" class="text-sm">Message</label>
-				<textarea id="message" rows="3" class="w-full p-3 rounded bg-coolGray-100"></textarea>
+				<textarea id="message" rows="3" class="w-full p-3 rounded bg-base-300"></textarea>
 			</div>
 			<button type="submit" class="w-full p-3 text-sm font-bold tracking-wide uppercase rounded bg-violet-600 text-coolGray-50">Send Message</button>
 		</form>
