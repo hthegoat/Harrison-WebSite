@@ -50,16 +50,18 @@ competitive advantage we immediately had."</p>
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/3">
-        <div class="flex rounded-lg h-full bg-neutral p-8 flex-col">
-          <div class="flex items-center mb-3">
+        <div class="collapse flex rounded-lg h-full bg-neutral p-8 flex-col">
+          <div class=" flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full flex-shrink-0">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
                 <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
               </svg>
             </div>
+             <div class="collapse-title text-xl font-medium">
             <h2 class="text-base-content text-lg title-font font-medium">Consolidate Accounts</h2>
+            </div>
           </div>
-          <div class="flex-grow">
+          <div class="collapse-content flex-grow">
             <p class="leading-relaxed text-base">The first thing I implemented, was a spreadsheet with account credentials. Some General Manager's did not even know the password and essentially had admin access to these accounts. The GM's that gave pushback I allowed to keep there individual pages since they were the few taking ownership of it. </p>
             
           </div>

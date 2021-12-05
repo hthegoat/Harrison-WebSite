@@ -1,6 +1,6 @@
 <template>
    <div>
-        <NavBar class="sticky top-0 z-50" /> 
+        <NavBar class="sticky" /> 
         <Nuxt /> 
         <Footer /> 
     </div>
