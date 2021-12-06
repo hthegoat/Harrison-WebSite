@@ -26,7 +26,7 @@ competitive advantage we immediately had."</p>
   </div>
    
 
-<div class="container max-w-5xl mx-auto p-4 sm:p-6 lg:p-8 bg-neutral">
+<div class="container max-w-5xl mx-auto p-4 sm:p-6 lg:p-8 bg-base-300">
         <div class="flex flex-wrap -mx-8">
             <div class="w-full px-8">
                 <div class="mb-12 lg:mb-0 pb-12 lg:pb-0 border-b lg:border-b-0">
@@ -49,8 +49,8 @@ competitive advantage we immediately had."</p>
       <span class="inline-block h-1 w-100 rounded bg-accent-content mt-8 mb-6"></span>
     </div>
     <div class="flex flex-wrap -m-4">
-      <div class="p-4 md:w-1/3">
-        <div class="collapse flex rounded-lg h-full bg-neutral p-8 flex-col">
+      <div tabindex="0" class="collapse p-4 md:w-1/3">
+        <div class="collapse flex rounded-lg h-full bg-accent p-8 flex-col">
           <div class=" flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full flex-shrink-0">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -58,34 +58,36 @@ competitive advantage we immediately had."</p>
               </svg>
             </div>
              <div class="collapse-title text-xl font-medium">
-            <h2 class="text-base-content text-lg title-font font-medium">Consolidate Accounts</h2>
+            <h2 class="text-base-content text-2xl title-font font-extrabold">Consolidate Accounts</h2>
             </div>
           </div>
-          <div class="collapse-content flex-grow">
-            <p class="leading-relaxed text-base">The first thing I implemented, was a spreadsheet with account credentials. Some General Manager's did not even know the password and essentially had admin access to these accounts. The GM's that gave pushback I allowed to keep there individual pages since they were the few taking ownership of it. </p>
+          <div tabindex="0" class="collapse-content flex-grow">
+            <p class="leading-relaxed text-base">With a multi location company, account management is paramount. I got started by getting all of the account credentials and attaching the ownership to a Business Manager account.  </p>
             
           </div>
         </div>
       </div>
-      <div class="p-4 md:w-1/3">
-        <div class="flex rounded-lg h-full bg-neutral p-8 flex-col">
-          <div class="flex items-center mb-3">
+      <div tabindex="0" class="collapse p-4 md:w-1/3">
+        <div class="collapse flex rounded-lg h-full bg-accent p-8 flex-col">
+          <div class=" flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full flex-shrink-0">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
                 <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
                 <circle cx="12" cy="7" r="4"></circle>
               </svg>
             </div>
-            <h2 class="text-base-content text-lg title-font font-medium">Content</h2>
+            <div class="collapse-title">
+            <h2 class="text-base-content text-2xl title-font font-extrabold">Content</h2>
+            </div>
           </div>
-          <div class="flex-grow">
-            <p class="leading-relaxed text-base">A big part of my initial strategy was to leverage the employees (~200). I knew the average employee was under 25 and would understand how to create stories, etc. I immediately got a group chat going with the managers and set weekly minimum requirements for content creation at the location.</p>
+          <div tabindex="0" class="collapse-content flex-grow">
+            <p class=" leading-relaxed text-base">With 200+ mostly college aged employees, it was obvious to me that the employees could be a major source of no-cost content for social and paid campaigns.</p>
             
           </div>
         </div>
       </div>
-      <div class="p-4 md:w-1/3">
-        <div class="flex rounded-lg h-full bg-neutral p-8 flex-col">
+      <div class="collapse p-4 md:w-1/3">
+        <div tabindex="0" class="collapse flex rounded-lg h-full bg-accent p-8 flex-col">
           <div class="flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full flex-shrink-0">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -94,9 +96,11 @@ competitive advantage we immediately had."</p>
                 <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
               </svg>
             </div>
-            <h2 class="text-base-content text-lg title-font font-medium">Setup Paid Social</h2>
+            <div class="collapse-title">
+            <h2 class="text-base-content text-2xl title-font font-extrabold">Setup Paid Social</h2>
+            </div>        
           </div>
-          <div class="flex-grow">
+          <div tabindex="0" class="collapse-content flex-grow">
             <p class="leading-relaxed text-base">While working on the frontend stuff I was also setting up Business Manager, Facebook Pixel Tracking, etc. I also implemented AgoraPulse as an account management solution for the X amount of accounts we wanted to have a birds eye view on. This was crucial since a lot of inquiries and questions came through these channels, and although some locations were autonomous, there was no way of checking.</p>
               
             </a>
@@ -107,8 +111,8 @@ competitive advantage we immediately had."</p>
   </div>
   <div class="container mx-auto flex flex-col items-center justify-center p-4 space-y-8 md:p-10 md:px-24 xl:px-48">
 			<h1 class="text-5xl font-bold leading-none text-center">It started with people</h1>
-			<p class="pt-2 pb-8 px-6 text-xl font-medium text-center">Getting the managers not only to fullfill the weekly minimum requirements, but to embrace content creation was crucial for this project. 
-            <br class="m-4"></br>This was a culture shift towards content and immediately gave me a ton of photos/videos to ad to our assets 
+			<p class="pt-2 pb-8 px-6 text-xl font-medium text-center">I immediately worked with Heidi (COO) to get the managers to fullfill weekly content requirements, along with embracing this culture shift towards content.  
+            
             <br class="m-4"></br> 
             
             </p>
@@ -157,7 +161,7 @@ competitive advantage we immediately had."</p>
                 </div>
               </div>
     </div>
-            <div class="container items-center px-5 py-8 mx-auto lg:px-24">
+            <div class="container items-center px-5 py-6 mx-auto lg:px-24">
   
               <div class="flex flex-wrap mb-12 text-left">
                 <div class="w-full mx-auto lg:w-1/3">
@@ -235,39 +239,9 @@ competitive advantage we immediately had."</p>
     </div>
     <div class="container mx-auto flex flex-col-reverse lg:flex-row">
 			<div class="flex flex-col px-6 py-8 space-y-6 rounded-sm sm:p-8 lg:p-12 lg:w-1/2 xl:w-2/5 bg-violet-600 text-coolGray-50">
-				<div class="flex space-x-2 sm:space-x-4">
-					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0 w-6 h-6">
-						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
-					</svg>
-					<div class="space-y-2">
-						<p class="text-lg font-medium leading-snug">Content</p>
-						<p class="leading-snug">At this point we had a functioning machine of content coming from the locations on a weekly basis. At the same time we were working on a Evergreen video once a month to complement the other content.</p>
-					</div>
-				</div>
-				<div class="flex space-x-2 sm:space-x-4">
-					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0 w-6 h-6">
-						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
-					</svg>
-					<div class="space-y-2">
-						<p class="text-lg font-medium leading-snug">Organic Socials</p>
-						<p class="leading-snug">With Agorapulse setup to manage messages etc, and the managers at some locations really taking ownership of this new content initiative, we were off to the races! We saw anything from 2x-10x traffic increase from our top social channels.</p>
-					</div>
-				</div>
-				<div class="flex space-x-2 sm:space-x-4">
-					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="flex-shrink-0 w-6 h-6">
-						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
-					</svg>
-					<div class="space-y-2">
-						<p class="text-lg font-medium leading-snug">Paid Social</p>
-						<p class="leading-snug">Alongside of all of this I set up Paid Social. </p>
-					</div>
-				</div>
+				
 			</div>
-			<div class="lg:w-1/2 xl:w-3/5 bg-coolGray-100">
-				<div class="flex items-center justify-center p-4 md:p-8 lg:p-12">
-					<img src="https://i.ibb.co/hfv8PR9/fb-ads.png" alt="" class="rounded-lg shadow-lg">
-				</div>
-			</div>
+		
 		</div>
          <div class="flex flex-col pt-12 text-center w-full mb-10">
       <h2 class="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1">PAID SOCIAL</h2>
@@ -276,7 +250,7 @@ competitive advantage we immediately had."</p>
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/2">
-        <div class="flex rounded-lg h-full bg-neutral p-8 flex-col">
+        <div class="flex rounded-lg h-full bg-accent p-8 flex-col">
           <div class="flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-accent-content text-white flex-shrink-0">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -292,7 +266,7 @@ competitive advantage we immediately had."</p>
         </div>
       </div>
       <div class="p-4 md:w-1/2">
-        <div class="flex rounded-lg h-full bg-neutral p-8 flex-col">
+        <div class="flex rounded-lg h-full bg-accent p-8 flex-col">
           <div class="flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-accent-content text-white flex-shrink-0">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -392,8 +366,8 @@ competitive advantage we immediately had."</p>
 					<div class="mt-12 space-y-12">
 						<div class="flex">
 							<div class="flex-shrink-0">
-								<div class="flex items-center justify-center w-12 h-12 rounded-md bg-violet-600 text-coolGray-50">
-									<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-7 h-7">
+								<div class="flex items-center justify-center w-12 h-12 rounded-md bg-accent text-coolGray-50">
+									<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="animate-pulse w-7 h-7">
 										<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
 									</svg>
 								</div>
@@ -405,8 +379,8 @@ competitive advantage we immediately had."</p>
 						</div>
 						<div class="flex">
 							<div class="flex-shrink-0">
-								<div class="flex items-center justify-center w-12 h-12 rounded-md bg-violet-600 text-coolGray-50">
-									<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-7 h-7">
+								<div class="flex items-center justify-center w-12 h-12 rounded-md bg-accent text-coolGray-50">
+									<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="animate-pulse w-7 h-7">
 										<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
 									</svg>
 								</div>
@@ -431,8 +405,8 @@ competitive advantage we immediately had."</p>
 						<div class="mt-12 space-y-12">
 							<div class="flex">
 								<div class="flex-shrink-0">
-									<div class="flex items-center justify-center w-12 h-12 rounded-md bg-violet-600 text-coolGray-50">
-										<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-7 h-7">
+									<div class="flex items-center justify-center w-12 h-12 rounded-md bg-accent text-coolGray-50">
+										<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="animate-pulse w-7 h-7">
 											<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
 										</svg>
 									</div>
@@ -444,8 +418,8 @@ competitive advantage we immediately had."</p>
 							</div>
 							<div class="flex">
 								<div class="flex-shrink-0">
-									<div class="flex items-center justify-center w-12 h-12 rounded-md bg-violet-600 text-coolGray-50">
-										<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-7 h-7">
+									<div class="flex items-center justify-center w-12 h-12 rounded-md bg-accent text-coolGray-50">
+										<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="animate-pulse w-7 h-7">
 											<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
 										</svg>
 									</div>

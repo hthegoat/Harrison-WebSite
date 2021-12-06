@@ -10,7 +10,7 @@ export default {
     title: 'Harrison Kugler',
     htmlAttrs: {
       lang: 'en',
-      datatheme: 'synthwave',
+      datatheme: 'dark',
       tagIDKeyName: 'vmid',
     },
     meta: [

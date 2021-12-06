@@ -1,16 +1,16 @@
 <template>
 <section class="px-4 py-6 mx-auto max-w-7xl">
-  <div class="grid items-center grid-cols-1 mb-24 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
+  <a name="whatido"><div class="grid items-center grid-cols-1 mb-24 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
     <div>
       <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-center text-base-content md:leading-tight sm:text-left md:text-4xl">Paid Media</h2>
       <p class="mb-5 text-base-content text-center  sm:text-left md:text-lg">
-I am responsible for overseeing my client's entire campaign, from ad copy to daily budget.
+        I am responsible for overseeing my client's entire campaign, from ad copy to daily budget.
       </p>
     </div>
     <div class="w-full h-full bg-gradient-to-r from-primary via-secondary to-accent">
         <img src="https://i.ibb.co/cFCqjmL/supershot-2-removebg-preview.png" class="h-128" alt="">
     </div>
-  </div>
+  </div></a>
   <div class="grid flex-col-reverse items-center grid-cols-1 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
     <div class="order-none md:order-2">
       <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-center text-base-content md:leading-tight sm:text-left md:text-4xl">Consulting</h2>
@@ -24,75 +24,7 @@ I am responsible for overseeing my client's entire campaign, from ad copy to dai
   </div>
 
   <section class="px-4 py-20 mx-auto max-w-7xl">
-  <div class="grid items-center grid-cols-1 lg:grid-cols-2 gap-y-10 lg:gap-y-32 gap-x-10 lg:gap-x-24">
-    <div>
-      <h2 class="mb-3 text-3xl font-extrabold leading-tight tracking-tight text-center text-base-content sm:text-left md:text-4xl">Things I Do:</h2>
-      
-     
-    </div>
-    <div class="flex flex-col flex-grow space-y-5">
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Website Development</p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Front End Social Media Planning </p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Website/Email Tracking and Analytics</p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Google Ads </p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Instagram & Facebook Ads </p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Google My Business + Tag Manager</p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Graphic Design / Evergreen Content</p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Lead Generation</p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Conversion Rate Optimization</p>
-      </div>
-      <div class="flex items-start">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="flex-none w-5 h-5 mt-1 mr-2 text-accent-focus">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        <p class="text-lg text-base-CONTENT">Work Hard Af</p>
-      </div>
-    </div>
-  </div>
+ 
 <div class="py-6 container mx-auto grid justify-center grid-cols-2 text-center lg:grid-cols-3">
 			<div class="flex flex-col justify-start m-2 lg:m-6">
 				<p class="text-4xl font-bold leading-none lg:text-6xl">$3mil</p>

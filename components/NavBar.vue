@@ -1,5 +1,5 @@
 <template>
-<div class="navbar shadow-lg bg-neutral text-neutral-content">
+<div class="navbar fixed shadow-lg bg-neutral text-neutral-content">
   <div class="px-2 mx-2 navbar-start">
    <NuxtLink to=/> <span class="text-lg font-bold">
            Harrison Kugler 
@@ -28,13 +28,13 @@
     <select data-choose-theme class="select select-bordered w-full max-w-xs bg-neutral">
   
   <option value="cyberpunk">🤖 Cyberpunk</option> 
-  <option value="forest">🌙 Dark</option> 
+  <option value="forest">🌙 Forest</option> 
   <option value="retro">📺 Retro</option> 
   <option value="aqua">🟦 Ocean</option> 
   <option value="wireframe">📓 Wireframe</option> 
   <option value="corporate">💼 Corporate</option> 
-  <option value="pastel">🍭 Cotton Candy</option> 
-  <option value="valentine">🩰 Pink</option> 
+  <option value="cmyk">🎨 CMYK</option> 
+  <option value="luxury">🤵 Luxury</option> 
   <option value="fastasy">🦄 Fantasy</option> 
   
 

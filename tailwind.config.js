@@ -36,6 +36,7 @@ module.exports = {
             'bumblebee',
             'cyberpunk',
             'retro',
+            'luxury',
             'wireframe',
             'corporate',
             'valentine',
