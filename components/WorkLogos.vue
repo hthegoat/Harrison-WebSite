@@ -102,7 +102,7 @@
     </div>
  </section>
 
- <section class="w-full bg-gradient-to-b from-gray-100 to-white">
+ <section class="w-full bg-base-300">
   <div class="w-full px-4 py-20 mx-auto text-left md:text-center md:w-3/4 lg:w-2/4">
     
     <h2 class="mb-6 text-3xl font-extrabold tracking-tight md:text-4xl md:mb-6 md:leading-tight">Ready To Work Together? Contact Me</h2>
@@ -110,7 +110,7 @@
       <label class="label">
         <span class="label-text">Email</span>
       </label>
-      <input type="text" class="inline-flex items-center justify-center w-full mb-2 btn btn-primary btn-lg sm:w-auto sm:mb-0">
+      <input type="text" class="inline-flex items-center justify-center w-full mb-2 input sm:w-auto sm:mb-0">
        
      
       <button class="inline-flex items-center justify-center w-full mb-2 btn btn-light btn-lg sm:w-auto sm:mb-0">

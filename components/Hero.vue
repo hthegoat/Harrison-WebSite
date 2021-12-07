@@ -23,7 +23,7 @@
       <div class="btn-group"> 
       <NuxtLink to="/work" class="btn btn-primary">My Work</NuxtLink>
      
-      <NuxtLink to="/about" class="btn btn-secondary">About Me</NuxtLink>
+      <NuxtLink to="/about" class="btn btn-secondary">Projects</NuxtLink>
       </div>
 
     </div>
