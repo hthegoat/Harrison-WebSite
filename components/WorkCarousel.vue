@@ -1,7 +1,7 @@
 <template>
 <div>
-
-<section class="px-4 py-3 mx-auto max-w-7xl">
+<a class="mb=16" name="whatido"></a>
+<section class="px-4 py-32 mx-auto max-w-7xl">
   <div class="grid items-center grid-cols-1 mb-24 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
     <div>
       <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-center text-base-content md:leading-tight sm:text-left md:text-4xl">Paid Media</h2>
@@ -62,7 +62,7 @@
 	</div>
 	<div class="space-y-4">
 		<div class="space-y-2">
-			<img src="https://images.unsplash.com/photo-1572377447512-590d281287bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="" class="block object-cover object-center w-full rounded-md h-72 dark:bg-coolGray-500">
+			<img src="https://images.unsplash.com/photo-1572377447512-590d281287bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="" class="block object-cover object-center w-full rounded-md h-full dark:bg-coolGray-500">
 			<div class="flex items-center text-xs">
 				<span>2 min read</span>
 			</div>

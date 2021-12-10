@@ -12,7 +12,7 @@
   		</ul>
 	</div>
   <div class="w-full mx-auto text-center  md:text-center">
-    <h1 class="mb-6 py-6 font-extrabold leading-none tracking-normal text-6xl dark:bg-base-300 md:text-3xl sm:text-3xl md:tracking-tight">
+    <h1 class="mb-6 py-6 font-extrabold leading-none tracking-normal text-6xl dark:bg-base-300 md:text-5xl sm:text-3xl md:tracking-tight">
       Turning <span class=" text-transparent bg-clip-text bg-gradient-to-r from-primary via-secondary to-accent-focus ">Clicks</span> Into Customers
     </h1>
     
