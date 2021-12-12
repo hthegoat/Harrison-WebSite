@@ -1,16 +1,19 @@
 <template>
-   <section class="px-4 py-24 mx-auto max-w-7xl">
-     <!--Breadcrumbs-->
-    <div class="text-sm breadcrumbs px-4 py-4">
+<div>
+   <div class="text-sm breadcrumbs px-4 py-4">
   		<ul>
     		<li>
       			<NuxtLink to="/">Home</NuxtLink>
     		</li> 
     		<li>
-      			<NuxtLink to="">Work</NuxtLink>
+      			<NuxtLink to="">About Me</NuxtLink>
     		</li> 
   		</ul>
 	</div>
+
+   <section class="px-4 py-24 mx-auto max-w-7xl">
+     <!--Breadcrumbs-->
+    
   <div class="w-full mx-auto text-center  md:text-center">
     <h1 class="mb-6 py-6 font-extrabold leading-none tracking-normal text-6xl dark:bg-base-300 md:text-5xl sm:text-3xl md:tracking-tight">
       Turning <span class=" text-transparent bg-clip-text bg-gradient-to-r from-primary via-secondary to-accent-focus ">Clicks</span> Into Customers
@@ -33,5 +36,5 @@
 
   
 </section>
-
+</div>
 </template>

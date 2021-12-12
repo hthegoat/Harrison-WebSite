@@ -3,13 +3,13 @@
   <div class="flex flex-col items-start justify-center px-4 py-24 lg:px-20">
     <span class="mb-3 text-white bg-blue-900 badge">Text</span>
     <h1 class="mb-6 text-4xl font-bold leading-tight text-base-content md:text-4xl lg:text-5xl">Seen Enough? Contact Me About Your Project</h1>
-    <div class="form-control">
+<form action="https://formspree.io/f/mdobozvb" method="POST" class="form-control">
   
   <div class="relative w-full">
-    <input type="text" placeholder="Search" class="w-full pr-32 md:pr-64 lg:pr-96 input input-primary input-bordered"> 
-    <button class="absolute top-0 right-0 rounded-l-none btn btn-primary bg-gradient-to-r from-primary via-secondary to-accent-focus">go</button>
+    <input type="email" name="email" placeholder="Email" class="w-full pr-32 md:pr-64 lg:pr-96 input input-primary input-bordered"> 
+    <button type="submit" class="absolute top-0 right-0 rounded-l-none btn btn-primary bg-gradient-to-r from-primary via-secondary to-accent-focus">go</button>
   </div>
-</div> 
+</form> 
 <div class="form-control">
   <label class="label">
     
