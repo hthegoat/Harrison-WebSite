@@ -4,5 +4,6 @@
     <WorkCarousel />
     <WorkTest />
     <WorkLogos />
+    <MainContact />
 </div>    
 </template>

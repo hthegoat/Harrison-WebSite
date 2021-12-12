@@ -6,7 +6,7 @@
     <div>
       <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-center text-base-content md:leading-tight sm:text-left md:text-4xl">Paid Media</h2>
       <p class="mb-5 text-base-content text-center  sm:text-left md:text-lg">
-        I am responsible for overseeing my client's entire campaign, from ad copy to daily budget.
+        As a Paid Media Specialist I set up, track, and optimize paid online advertising campaigns. Working intimately with clients, I am able to quickly break down research on target audiences and marketing objectives into effective tactics that can be implemented through paid media channels.
       </p>
     </div>
     <div class="w-full h-full bg-gradient-to-r from-primary via-secondary to-accent">
@@ -17,7 +17,7 @@
     <div class="order-none md:order-2">
       <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-center text-base-content md:leading-tight sm:text-left md:text-4xl">Consulting</h2>
       <p class="mb-5 text-base-content text-center sm:text-left md:text-lg">
-        I would describe myself as smart, creative, and ambitious. As a consultant I am looking to work with brands and make them even better. 
+        As a Marketing Consultant I serve a wide range of clients, from small businesses and startups to established companies with extensive marketing concerns. As a consultant, I use my wide knowledge base to offer guidance, structure, and insights tailored to unique business situations. 
       </p>
      
     </div>
@@ -40,18 +40,7 @@
 				<p class="text-4xl font-bold leading-none lg:text-6xl">100+</p>
 				<p class="text-sm sm:text-base">Campaigns</p>
 			</div>
-			<div class="flex flex-col justify-start m-2 lg:m-6">
-				<p class="text-4xl font-bold leading-none lg:text-6xl">30</p>
-				<p class="text-sm sm:text-base">TED talks</p>
-			</div>
-			<div class="flex flex-col justify-start m-2 lg:m-6">
-				<p class="text-4xl font-bold leading-none lg:text-6xl">22</p>
-				<p class="text-sm sm:text-base">Years of experience</p>
-			</div>
-			<div class="flex flex-col justify-start m-2 lg:m-6">
-				<p class="text-4xl font-bold leading-none lg:text-6xl">10+</p>
-				<p class="text-sm sm:text-base">Workshops</p>
-			</div><!---->
+		
 		</div>
    <div class=" p-4 container shadow-md flex-grow dark:bg-coolGray-900 dark:text-coolGray-100">
 	<div class="flex justify-between pb-4 border-bottom">
@@ -68,9 +57,9 @@
 			</div>
 		</div>
 		<div class="space-y-2">
-			<a href="#" class="block">
+			<NuxtLink to="projects/burythehatchet" class="block">
 				<h3 class="text-xl font-semibold dark:text-violet-400">Full Stack w/ Bury The Hatchet</h3>
-			</a>
+			</NuxtLink>
 			<p class="leading-snug dark:text-coolGray-400">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat, excepturi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat, excepturi.</p>
 	<NuxtLink to="/projects/burythehatchet" class="bg-gradient-to-r from-primary via-secondary to-accent inline-flex w-full btn">Read</NuxtLink>	
 		</div>

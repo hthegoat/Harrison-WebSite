@@ -8,7 +8,7 @@
         <img src="https://i.ibb.co/m4qS4jw/JL1-4968.jpg" class="object-cover w-full h-72 mb-5 bg-center rounded" alt="Harrison Kugler" loading="lazy" />
       </NuxtLink>
       <h2 class="mb-2 text-lg font-semibold text-gray-900">
-        <NuxtLink to="project/burythehatchet" class="text-gray-900 hover:text-accent">Full Stack Marketing with Bury The Hatchet</NuxtLink>
+        <NuxtLink to="projects/burythehatchet" class="text-gray-900 hover:text-accent">Full Stack Marketing with Bury The Hatchet</NuxtLink>
       </h2>
       <p class="mb-3 text-sm font-normal text-gray-500">
         Earlier RPA bots used to have some limitations like it would take structured data for processing from excel, database, on these data. But with advancements in technology like OCR (Optical
@@ -38,9 +38,6 @@
    
     
   </div>
-  <div class="flex flex-col items-center justify-center mt-20 space-x-0 space-y-2 md:space-x-2 md:space-y-0 md:flex-row">
-    <NuxtLink to="/" class="w-full rounded-full btn btn-light btn-xl md:w-auto">Contact Me</NuxtLink>
-    <NuxtLink to="/" class="w-full rounded-full btn btn-light btn-xl md:w-auto">Home</NuxtLink>
-  </div>
+ 
 </section>    
 </template>

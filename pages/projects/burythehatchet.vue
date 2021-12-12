@@ -3,7 +3,7 @@
   <div class="container mx-auto flex px-5 py-12 items-center justify-center flex-col">
     <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src="https://i.ibb.co/R69hV92/th-31340404165-1560x1040.jpg">
     <div class="text-center lg:w-2/3 w-full">
-      <h1 class="title-font sm:text-3xl text-5xl mb-4 font-extrabold text-base-content">Working with Howard and Co I developed and implemented a robust full-stack marketing strategy. </h1>
+      <h1 class="title-font sm:text-3xl text-5xl mb-4 font-extrabold text-base-content">Content-first Marketing Strategy</h1>
       
     </div>
   </div>
@@ -31,13 +31,9 @@ competitive advantage we immediately had."</p>
             <div class="w-full px-8">
                 <div class="mb-12 lg:mb-0 pb-12 lg:pb-0 border-b lg:border-b-0">
                     <h2 class="mb-4 text-3xl lg:text-4xl font-bold text-left font-heading text-base-content">
-                    Bury The Hatchet and its sister company Amazing Escape Room had 24 locations nationwide. They hired me to come in and formalize there Marketing Strategy, Content Creation, and Paid Social.
+                    Bury The Hatchet, a 12-location Axe-throwing Company, Brought Me In as a Marketing Consultant. Our goal was to <span class="underline decoration-dotted">Create and Formalize </span> Their Entire Marketing Strategy from <span class="underline"> Top To Bottom. </span> 
                     </h2>
-                    <p class="pt-2 pb-8 text-xl font-medium text-left">
-                        Each location had its own Facebook Page, some had Instagram Pages, and some also had Twitter pages. Around 40+ pages. In addition to this the owner was boosting posts on Facebook. It was essentially a blank canvas for me to work with and I leapt at the opportunity. 
-                        
                     
-                    </p>
                    
                 </div>
             </div>
@@ -49,25 +45,29 @@ competitive advantage we immediately had."</p>
       <span class="inline-block h-1 w-100 rounded bg-accent-content mt-8 mb-6"></span>
     </div>
     <div class="flex flex-wrap -m-4">
-      <div  class="p-4 md:w-1/3">
+      <div  class="p-4 md:w-1/2">
         <div class=" flex rounded-lg h-full bg-accent p-8 flex-col">
-          <div class="collapse flex items-center mb-3">
+          <div class="flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full flex-shrink-0">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
                 <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
               </svg>
             </div>
+            <div tabindex="0" class="collapse">
              <div class="collapse-title text-xl font-medium">
             <h2 class="text-base-content text-2xl title-font font-extrabold">Consolidate Accounts</h2>
             </div>
-          </div>
-          <div tabindex="0" class="collapse-content flex-grow">
-            <p class="leading-relaxed text-base">With a multi location company, account management is paramount. I got started by getting all of the account credentials and attaching the ownership to a Business Manager account.  </p>
             
+          <div  class="collapse-content flex-grow">
+            <p class="leading-relaxed text-base">Account ownership is a critical aspect of managing multiple locations, and having the right tools to do so can make all the difference. Platform Specific and Scheduling tools can help you manage multiple accounts and make them look like a single, cohesive brand to your customers.  </p>
+            
+          </div>
+          </div>
           </div>
         </div>
       </div>
-      <div tabindex="0" class="collapse p-4 md:w-1/3">
+
+      <div tabindex="0" class="collapse p-4 md:w-1/2">
         <div class="collapse flex rounded-lg h-full bg-accent p-8 flex-col">
           <div class=" flex items-center mb-3">
             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full flex-shrink-0">
@@ -81,32 +81,12 @@ competitive advantage we immediately had."</p>
             </div>
           </div>
           <div tabindex="0" class="collapse-content flex-grow">
-            <p class=" leading-relaxed text-base">With 200+ mostly college aged employees, it was obvious to me that the employees could be a major source of no-cost content for social and paid campaigns.</p>
+            <p class=" leading-relaxed text-base">Using employees as sources of content is not a new idea in marketing, but I do think it's one of the best kept secrets in the industry. Any time you need fresh, compelling content from real people, to be used in social or paid media, using your own employees can be the easiest and most cost effective solution.</p>
             
           </div>
         </div>
       </div>
-      <div class="collapse p-4 md:w-1/3">
-        <div tabindex="0" class="collapse flex rounded-lg h-full bg-accent p-8 flex-col">
-          <div class="flex items-center mb-3">
-            <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full flex-shrink-0">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
-                <circle cx="6" cy="6" r="3"></circle>
-                <circle cx="6" cy="18" r="3"></circle>
-                <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
-              </svg>
-            </div>
-            <div class="collapse-title">
-            <h2 class="text-base-content text-2xl title-font font-extrabold">Setup Paid Social</h2>
-            </div>        
-          </div>
-          <div tabindex="0" class="collapse-content flex-grow">
-            <p class="leading-relaxed text-base">While working on the frontend stuff I was also setting up Business Manager, Facebook Pixel Tracking, etc. I also implemented AgoraPulse as an account management solution for the X amount of accounts we wanted to have a birds eye view on. This was crucial since a lot of inquiries and questions came through these channels, and although some locations were autonomous, there was no way of checking.</p>
-              
-            </a>
-          </div>
-        </div>
-      </div>
+      
     </div>
   </div>
   <div class="container mx-auto flex flex-col items-center justify-center p-4 space-y-8 md:p-10 md:px-24 xl:px-48">
@@ -199,8 +179,8 @@ competitive advantage we immediately had."</p>
 
         <div class="container mx-auto flex flex-col items-center justify-center p-4 space-y-8 md:p-10 md:px-24 xl:px-48">
 			<h1 class="text-5xl font-bold leading-none text-center">Our oganic social immediately saw an improvement</h1>
-			<p class="pt-2 pb-2 text-xl font-medium text-center">We now had 10x the amount of content coming to us from the locations.   
-            <br class="m-4"></br>I used AgoraPulse (highly recommend) to manage our posting schedule across the remaining social accounts. 
+			<p class="pt-2 pb-2 text-xl font-medium text-center">Bury The Hatchet had 10x the amount of content being produced at a nominal cost.   
+            <br class="m-4"></br>I also setup AgoraPulse (highly recommend) to manage our posting schedule and communications. 
             
             
             </p>
@@ -225,7 +205,7 @@ competitive advantage we immediately had."</p>
 			
     </div>
      <div class="container mx-auto flex flex-col items-center justify-center p-4 space-y-8 md:p-10 md:px-24 xl:px-48">
-			<h1 class="text-5xl font-bold leading-none text-center">In the first few months we also hired a videographer to create some Evergreen content.</h1>
+			<h1 class="text-5xl font-bold leading-none text-center">We also hired a local videographer to create some Evergreen content.</h1>
 <div class="container mx-auto flex flex-col items-center justify-center p-4 space-y-8 md:p-10 md:px-24 xl:px-48">
   
   <youtube :video-id="videoId" ref="youtube" @playing="playing" fit-parent=true></youtube>
@@ -259,10 +239,7 @@ competitive advantage we immediately had."</p>
             </div>
             <h2 class="text-base-content text-lg title-font font-medium">Launch Ads Campaign</h2>
           </div>
-          <div class="flex-grow">
-            <p class="leading-relaxed text-base">The next step was to launch ads. Usually this is not a complicated task but with 12-24 locations scaterred throughought the East Coast, it was essential to strategize as to not waste any of the budget we were working with. </p>
-            
-          </div>
+         
         </div>
       </div>
       <div class="p-4 md:w-1/2">
@@ -277,12 +254,7 @@ competitive advantage we immediately had."</p>
             <h2 class="text-base-content text-lg title-font font-medium">Increase Revenue Through Social</h2>
           </div>
           <div class="flex-grow">
-            <p class="leading-relaxed text-base">On top of that Howard really wanted to increase sales through social. </p>
-            <a class="mt-3 text-indigo-500 inline-flex items-center">Learn More
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                <path d="M5 12h14M12 5l7 7-7 7"></path>
-              </svg>
-            </a>
+          
           </div>
         </div>
       </div>
@@ -290,50 +262,7 @@ competitive advantage we immediately had."</p>
     </div>
     <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20 bg-coolGray-100 text-coolGray-800">
 		<h2 class="mb-8 text-4xl font-bold leading-none text-center">Launching Ads Campaign</h2>
-		<ul class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
-			<li class="flex items-center space-x-2">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 fill-current text-violet-600">
-					<path d="M426.072,86.928A238.75,238.75,0,0,0,88.428,424.572,238.75,238.75,0,0,0,426.072,86.928ZM257.25,462.5c-114,0-206.75-92.748-206.75-206.75S143.248,49,257.25,49,464,141.748,464,255.75,371.252,462.5,257.25,462.5Z"></path>
-					<polygon points="221.27 305.808 147.857 232.396 125.23 255.023 221.27 351.063 388.77 183.564 366.142 160.937 221.27 305.808"></polygon>
-				</svg>
-				<span>Location Based vs Broader Targetting</span>
-			</li>
-			<li class="flex items-center space-x-2">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 fill-current text-violet-600">
-					<path d="M426.072,86.928A238.75,238.75,0,0,0,88.428,424.572,238.75,238.75,0,0,0,426.072,86.928ZM257.25,462.5c-114,0-206.75-92.748-206.75-206.75S143.248,49,257.25,49,464,141.748,464,255.75,371.252,462.5,257.25,462.5Z"></path>
-					<polygon points="221.27 305.808 147.857 232.396 125.23 255.023 221.27 351.063 388.77 183.564 366.142 160.937 221.27 305.808"></polygon>
-				</svg>
-				<span>Conversion Tracking </span>
-			</li>
-			<li class="flex items-center space-x-2">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 fill-current text-violet-600">
-					<path d="M426.072,86.928A238.75,238.75,0,0,0,88.428,424.572,238.75,238.75,0,0,0,426.072,86.928ZM257.25,462.5c-114,0-206.75-92.748-206.75-206.75S143.248,49,257.25,49,464,141.748,464,255.75,371.252,462.5,257.25,462.5Z"></path>
-					<polygon points="221.27 305.808 147.857 232.396 125.23 255.023 221.27 351.063 388.77 183.564 366.142 160.937 221.27 305.808"></polygon>
-				</svg>
-				<span>Brand Awareness</span>
-			</li>
-			<li class="flex items-center space-x-2">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 fill-current text-violet-600">
-					<path d="M426.072,86.928A238.75,238.75,0,0,0,88.428,424.572,238.75,238.75,0,0,0,426.072,86.928ZM257.25,462.5c-114,0-206.75-92.748-206.75-206.75S143.248,49,257.25,49,464,141.748,464,255.75,371.252,462.5,257.25,462.5Z"></path>
-					<polygon points="221.27 305.808 147.857 232.396 125.23 255.023 221.27 351.063 388.77 183.564 366.142 160.937 221.27 305.808"></polygon>
-				</svg>
-				<span>AOV/LTV</span>
-			</li>
-			<li class="flex items-center space-x-2">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 fill-current text-violet-600">
-					<path d="M426.072,86.928A238.75,238.75,0,0,0,88.428,424.572,238.75,238.75,0,0,0,426.072,86.928ZM257.25,462.5c-114,0-206.75-92.748-206.75-206.75S143.248,49,257.25,49,464,141.748,464,255.75,371.252,462.5,257.25,462.5Z"></path>
-					<polygon points="221.27 305.808 147.857 232.396 125.23 255.023 221.27 351.063 388.77 183.564 366.142 160.937 221.27 305.808"></polygon>
-				</svg>
-				<span>Retargetting</span>
-			</li>
-			<li class="flex items-center space-x-2">
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-5 h-5 fill-current text-violet-600">
-					<path d="M426.072,86.928A238.75,238.75,0,0,0,88.428,424.572,238.75,238.75,0,0,0,426.072,86.928ZM257.25,462.5c-114,0-206.75-92.748-206.75-206.75S143.248,49,257.25,49,464,141.748,464,255.75,371.252,462.5,257.25,462.5Z"></path>
-					<polygon points="221.27 305.808 147.857 232.396 125.23 255.023 221.27 351.063 388.77 183.564 366.142 160.937 221.27 305.808"></polygon>
-				</svg>
-				<span>Architecto beatae esse ab amet </span>
-			</li><!---->
-		</ul>
+		
 	</div>
      <div class="container px-5 py-6 mx-auto">
     <div class="flex flex-wrap -mx-4 -mb-10 text-center">
@@ -373,8 +302,8 @@ competitive advantage we immediately had."</p>
 								</div>
 							</div>
 							<div class="ml-4">
-								<h4 class="text-lg font-medium leading-6 text-coolGray-900">Segment and Tested Male vs Female</h4>
-								<p class="mt-2 text-coolGray-600">No real insights here, females performed a bit better in overall CTR, but both audiences responded well to this camapign. </p>
+								<h4 class="text-lg font-medium leading-6 text-coolGray-900">A/B Testing</h4>
+							
 							</div>
 						</div>
 						<div class="flex">
@@ -386,8 +315,8 @@ competitive advantage we immediately had."</p>
 								</div>
 							</div>
 							<div class="ml-4">
-								<h4 class="text-lg font-medium leading-6 text-coolGray-900">Test Multiple Creatives</h4>
-								<p class="mt-2 text-coolGray-600">I always test multiple creatives. In this campaign the ad to the right out performed every other ad at scale so we eventually doubled down on that and used Dynamic Ads to have variations in the copy.</p>
+								<h4 class="text-lg font-medium leading-6 text-coolGray-900">Dynamic Creatives</h4>
+							
 							</div>
 						</div>
 						
@@ -400,8 +329,8 @@ competitive advantage we immediately had."</p>
 			<div>
 				<div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
 					<div class="lg:col-start-2">
-						<h3 class="text-2xl font-bold tracking-tight sm:text-3xl text-coolGray-900">Evergreen Works</h3>
-						<p class="mt-3 text-lg text-coolGray-600">This was my first time doing Creative Directing for anything and to be honest I was not certain that the 'juice would be worth the squeeze.' Turns out it was. Besides our date night camapign the E.C campaigns using the videos we created, outperformed all other campaigns.</p>
+						<h3 class="text-2xl font-bold tracking-tight sm:text-3xl text-coolGray-900">Evergreen Campaign</h3>
+						<p class="mt-3 text-lg text-coolGray-600">Evergreen content simply means content that can be used over and over again. Utilizing our local videographer, we were able to create commercial style videos at scale.</p>
 						<div class="mt-12 space-y-12">
 							<div class="flex">
 								<div class="flex-shrink-0">
@@ -412,8 +341,8 @@ competitive advantage we immediately had."</p>
 									</div>
 								</div>
 								<div class="ml-4">
-									<h4 class="text-lg font-medium leading-6 text-coolGray-900">We Didn't Spend A Ton</h4>
-									<p class="mt-2 text-coolGray-600">We got a ton of quotes from different videographers and we went with one of my buddies from the skatepark who was in the lower-mid price tier. Well John killed it. We could have used a more expensive option but for this case I don't think it was necessary.</p>
+									<h4 class="text-lg font-medium leading-6 text-coolGray-900">Production Cost </h4>
+									
 								</div>
 							</div>
 							<div class="flex">
@@ -425,8 +354,8 @@ competitive advantage we immediately had."</p>
 									</div>
 								</div>
 								<div class="ml-4">
-									<h4 class="text-lg font-medium leading-6 text-coolGray-900">Entertain Entertain Entertain</h4>
-									<p class="mt-2 text-coolGray-600">I can't stress this enough, our video's that were predominantly entertaining (less commercially) outperformed even our best promotional videos and offers.</p>
+									<h4 class="text-lg font-medium leading-6 text-coolGray-900">Digestable Content</h4>
+								
 								</div>
 							</div>
 							
@@ -451,7 +380,7 @@ competitive advantage we immediately had."</p>
 
 <div class="container mx-auto grid justify-center grid-cols-2 text-center pb-6 lg:grid-cols-3">
 			<div class="flex flex-col justify-start m-2 lg:m-6">
-				<p class="text-4xl font-bold leading-none lg:text-6xl">$250k+</p>
+				<p class="text-4xl font-bold leading-none lg:text-6xl">$500k+</p>
 				<p class="text-sm sm:text-base">Direct Revenue</p>
 			</div>
 			<div class="flex flex-col justify-start m-2 lg:m-6">
