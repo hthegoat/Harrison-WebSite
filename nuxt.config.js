@@ -23,7 +23,9 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-
+  gtm: {
+    id: 'GTM-MZNJBGD'
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     './assets/main.css'
@@ -49,7 +51,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-
+'@nuxtjs/gtm', 
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
