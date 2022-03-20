@@ -1,18 +1,7 @@
 <template>
 <div>
 
-	<!--Breadcrumbs-->
-    <div class="text-sm breadcrumbs px-4 py-4">
-  		<ul>
-    		<li>
-      			<NuxtLink to="/">Home</NuxtLink>
-    		</li> 
-    		<li>
-      			<NuxtLink to="">About Me</NuxtLink>
-    		</li> 
-  		</ul>
-	</div>
-    
+	
     <div class="hero min-h-screen bg-base-200">
      
   <div class="flex-col hero-content lg:flex-row-reverse">

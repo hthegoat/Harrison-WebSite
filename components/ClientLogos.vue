@@ -1,6 +1,6 @@
 <template>
 <div>
-   <section class="px-4 py-6 mx-auto max-w-7xl">
+   <section class="px-4 py-12 bg-base-300 mx-auto max-w-7xl">
   <h1 class="mb-3 text-3xl font-bold leading-tight text-center mb-32 text-base-content md:text-5xl">Team's I've Worked With</h1>
   <div class="grid grid-cols-2 gap-16 mb-8 text-center lg:grid-cols-6">
     <div class="flex items-center justify-center">
@@ -42,65 +42,15 @@
       <a href="https://amazingescaperoom.com/" target="_blank"> <img src="https://keystone-contracting-llc.com/userfiles/1864/Keystone-Roofing-%26-Siding-LLC-logo_300@2x.png"  alt="Amazing Escape Room Logo" class="block object-contain h-32" /> </a>
     </div>
   </div>
- 
-</section>
-   <section class="px-4 py-6 mx-auto max-w-7xl">
-  <h1 class="mb-3 text-3xl font-bold leading-tight text-center mb-32 text-base-content md:text-5xl">Certifications I Have</h1>
-  <div class="grid grid-cols-1 gap-8 mb-8 text-center lg:grid-cols-3">
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/C0Wj6vt/1200px-Google-Ads-logo-svg.png" alt="Slack Logo" class="block object-contain h-32" /> </a>
-    </div>
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/rc7pKf8/Facebook-blueprint-certified-buyer-01-1.png" alt="Typeform Logo" class="block object-contain h-32" /> </a>
-    </div>
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/JF41gcR/GA-certified-1.png" alt="Algolia Logo" class="block object-contain h-32" /> </a>
-    </div>
-    
-  </div>
- 
-</section>
 
-   <section class="px-4 py-24 mx-auto max-w-7xl">
-  <h1 class="mb-3 text-3xl font-bold leading-tight text-center mb-16 text-base-content md:text-5xl">Other (Not So Obvious) Platforms I Use</h1>
-  <div class="grid grid-cols-1 gap-8 mb-8 text-center lg:grid-cols-3">
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/jyNzyTm/google-tag-manager-gdpr-810.png" alt="Slack Logo" class="block object-contain h-32" /> </a>
-    </div>
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/wZnF2cH/Word-Press-logotype-alternative.png" alt="Typeform Logo" class="block object-contain h-32" /> </a>
-    </div>
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/Dz9Hc0Z/2560px-Shopify-logo-2018-svg.png" alt="Algolia Logo" class="block object-contain h-32" /> </a>
-    </div>
-   
-    
-  </div>
- 
-</section>
- <section class="px-4 py-6 mx-auto max-w-7xl">
-  <h1 class="mb-3 text-3xl font-bold leading-tight text-center mb-16 text-base-content md:text-5xl">This Website Is Custom Built With </h1>
-  <div class="grid grid-cols-1 gap-16 mb-8 text-center lg:grid-cols-3">
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/QP1CzwF/Tailwind-CSS-Logo-svg.png" alt="Tailwind Logo" class="block object-contain h-32" /> </a>
-    </div>
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/JpTtwJ5/480px-Unofficial-Java-Script-logo-2-svg.png" alt="Javascript Logo" class="block object-contain h-32" /> </a>
-    </div>
-    <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/6DhMcV3/1-Z3-Qc-BB-mv-WCqood2fbi-BQ.png" alt="Nuxt Logo" class="block object-contain h-32" /> </a>
-    </div>
-    
-  </div>
- 
-</section>
- <section class="px-4 py-6 mx-auto max-w-7xl">
 
- <h1 class="mb-3 text-3xl font-bold leading-tight text-center mb-32 text-base-content md:text-5xl">And Protected By </h1>
- <div class="flex items-center justify-center">
-      <a href="" > <img src="https://i.ibb.co/pPWjYy7/1200px-Cloudflare-logo-vector-svg.png" alt="Algolia Logo" class="block object-contain mb-32 h-32" /> </a>
-    </div>
- </section>
+
+
+</section>
+  
+
+
+
 
 
 

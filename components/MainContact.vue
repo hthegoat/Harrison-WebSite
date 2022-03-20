@@ -1,32 +1,99 @@
 <template>
-    <section class="grid grid-cols-1 gap-0 bg-blue-100 bg-opacity-25 md:grid-cols-2">
-  <div class="flex flex-col items-start justify-center px-4 py-24 lg:px-20">
-    <span class="mb-3 text-white bg-blue-900 badge">Hey? Whatsup? Hello?</span>
-    <h1 class="mb-6 text-4xl font-bold leading-tight text-base-content md:text-4xl lg:text-5xl">Contact Me About Your Project</h1>
-<form action="https://formspree.io/f/mdobozvb" method="POST" class="form-control">
-  
-  <div class="relative w-full">
-    <input type="email" name="email" placeholder="Email" class="w-full pr-32 md:pr-64 lg:pr-96 input input-primary input-bordered"> 
-    <button type="submit" class="absolute top-0 right-0 rounded-l-none btn btn-primary bg-gradient-to-r from-primary via-secondary to-accent-focus">go</button>
+    <!--
+  This component uses @tailwindcss/forms
+
+  yarn add @tailwindcss/forms
+  npm install @tailwindcss/forms
+
+  plugins: [require('@tailwindcss/forms')]
+-->
+
+<div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
+  <div class="max-w-lg mx-auto text-center">
+    <h1 class="text-2xl font-bold sm:text-3xl">Get started today!</h1>
+
+    <p class="mt-4 text-gray-500">
+     We help companies you know grow their businesses through paid marketing, web design, and acquisition strategies. For more information about what we can do for your business and how to get started, contact us today.
+    </p>
   </div>
-</form> 
-<div class="form-control">
-  <label class="label">
-    
-  </label> 
-  
+
+  <form action="" class="max-w-md mx-auto mt-8 mb-0 space-y-4">
+    <div>
+      <label for="email" class="sr-only">Email</label>
+
+      <div class="relative">
+        <input
+          type="email"
+          class="w-full p-4 pr-12 text-sm border-gray-200 rounded-lg shadow-sm"
+          placeholder="Enter email"
+        />
+
+        <span class="absolute inset-y-0 inline-flex items-center right-4">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="w-5 h-5 text-gray-400"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
+            />
+          </svg>
+        </span>
+      </div>
+    </div>
+
+    <div>
+      <label for="password" class="sr-only">Password</label>
+      <div class="relative">
+        <input
+          type="password"
+          class="w-full p-4 pr-12 text-sm border-gray-200 rounded-lg shadow-sm"
+          placeholder="Enter password"
+        />
+
+        <span class="absolute inset-y-0 inline-flex items-center right-4">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="w-5 h-5 text-gray-400"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
+            />
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
+            />
+          </svg>
+        </span>
+      </div>
+    </div>
+
+    <div class="flex items-center justify-between">
+      <p class="text-sm text-gray-500">
+        No account?
+        <a class="underline" href="">Sign up</a>
+      </p>
+
+      <button
+        type="submit"
+        class="inline-block px-5 py-3 ml-3 text-sm font-medium text-white bg-blue-500 rounded-lg"
+      >
+        Sign in
+      </button>
+    </div>
+  </form>
 </div>
-
-
-   <NuxtLink to="/contact" class="pr-0 mb-4 text-sm text-blue-800 tracking-relaxed lg:pr-16">Or send me a detailed message here</NuxtLink>
-  </div>
-  <div>
-    <img
-      src="https://i.ibb.co/3hvghF1/124026684-370287604237680-5585876580566453797-n.jpg"
-      alt="3 women looking at a laptop"
-      class="object-cover w-full h-auto bg-gray-100 md:h-auto"
-      loading="lazy"
-    />
-  </div>
-</section>
 </template>

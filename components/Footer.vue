@@ -1,10 +1,10 @@
 <template>
     <footer class="p-10 footer bg-base-300 text-base-content">
   <div>
-    <span class="footer-title">Clients</span> 
+    <span class="footer-title">Links</span> 
  
-    <NuxtLink to="/login" class="link link-hover">Client Portal</NuxtLink> 
-    <NuxtLink to="/" class="link link-hover">Payment Portal</NuxtLink> 
+    <a href="https://freshsaltagency.com" target="_blank" class="link link-hover">Fresh Salt Agency</a> 
+    <NuxtLink to="/" class="link link-hover">Case Studies</NuxtLink> 
   </div> 
   <div>
     <span class="footer-title">Navigation</span> 
