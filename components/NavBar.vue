@@ -26,7 +26,8 @@
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
           <li><NuxtLink to="/about" class="">About</NuxtLink></li>
           <li><a href="https://FreshSaltAgency.com" target="_blank" class="">Agency</a></li>
-          <li><NuxtLink to="#" class="">Contact</NuxtLink></li>
+          <li><a href="https://FreshSaltAgency.com" target="_blank" class="">Crowdfunding</a></li>
+          <li><a href="#contact" class="">Contact</a></li>
           <li> 
       </li>
         </ul>
@@ -61,21 +62,21 @@
           </button>
         </div>
 
-        <span @click="isOpen = false" class="flex w-full items-center p-4 border-b">
+        <span @click="isOpen = false" class="flex w-full items-center bg-primary p-4 border-b">
           <Tailwind />
         </span>
 
         <ul class="divide-y font-sans">
-          <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">Home</a></li>
-          <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">Services</a></li>
-          <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">Features</a></li>
-          <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">FAQ</a></li>
+          <li><NuxtLink to="#" @click="isOpen = false" class="my-4 text-black inline-block">Home</NuxtLink></li>
+          <li><NuxtLink to="/about" @click="isOpen = false" class="my-4 text-black inline-block">About</NuxtLink></li>
+          <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">Agency</a></li>
+          <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">Crowdfunding </a></li>
           <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">Contact</a></li>
-          <li><a href="#" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white">Sign Up</a></li>
+          <li><a href="#" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white">Fresh Salt Agency</a></li>
         </ul>
 
         <div class="follow">
-          <p class="italic font-sans text-sm">follow us:</p>
+          <p class="italic font-sans text-sm">follow me:</p>
           <div class="social flex space-x-5 mt-4 ">
             <a href="#">
               <svg 

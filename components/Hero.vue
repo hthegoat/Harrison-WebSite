@@ -27,7 +27,7 @@
 
 <span class="sr-only"> Sort </span>
 
-<select data-choose-theme class="select font-medium border hover:z-10 focus:outline-none focus:border-indigo-600 focus:z-10 hover:bg-gray-50 active:opacity-75 justify-evenly w-full max-w-xs " type="button">
+<select data-choose-theme class="select font-medium border hover:z-10 focus:outline-none focus:bg-primary focus:z-10 hover:bg-gray-50 active:opacity-75 justify-evenly w-full max-w-xs " type="button">
   
   <option value="cyberpunk">🤖 Cyberpunk</option> 
   <option value="forest">🌙 Forest</option> 
@@ -44,7 +44,7 @@
 
 <a href="#enter">
   <button
-    class="px-15 py-3 btn btn-xs sm:btn-sm md:btn-md lg:btn-lg hover:animate-pulse hover:z-10 focus:outline-none focus:border-indigo-600 focus:z-10 hover:bg-gray-50 active:opacity-75"
+    class="normal-case first-letter:px-15 py-3 btn btn-xs sm:btn-md md:btn-md lg:btn-md hover:bg-gradient-to-r from-primary via-secondary to-accent-focus"
     type="button"
   >
  Enter </button></a>
