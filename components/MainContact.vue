@@ -11,20 +11,21 @@
 <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
 <a href="" name="contact"></a>  
   <div class="max-w-lg mx-auto text-center">
-    <h1 class="text-3xl font-bold sm:text-3xl md:text-5xl">Request A Proposal!</h1>
+    <h1 class="text-3xl font-bold sm:text-3xl md:text-5xl">How Can I Help?</h1>
 
     <p class="mt-4 text-gray-500">
      We help companies you know grow their businesses through paid marketing, web design, and acquisition strategies. For more information about what we can do for your business and how to get started, contact us today.
     </p>
   </div>
 
-  <form action="" class="max-w-md mx-auto mt-8 mb-0 space-y-4">
+  <form action="https://getform.io/f/18e19d2f-ebd0-49b8-a8fa-541dc8c3f69e" method="post" class="max-w-md mx-auto mt-8 mb-0 space-y-4">
     <div>
       <label for="email" class="sr-only">Email</label>
 
       <div class="relative">
         <input
           type="email"
+          name="email"
           class="input text-neutral w-full p-4 pr-12 text-md font-bold bg-accent active:bg-primary focus:bg-primary border-gray-200 rounded-lg shadow-sm"
           placeholder="Do it, do it"
         />
@@ -50,7 +51,7 @@
 
       </div>
     </div>
-      <textarea class="textarea w-full p-4 pr-12 text-md text-neutral font-bold bg-accent active:bg-primary focus:bg-primary border-gray-200 rounded-lg shadow-sm" placeholder="Bio"></textarea>
+      <textarea type="text" name="message" class="textarea w-full p-4 pr-12 text-md text-neutral font-bold bg-accent active:bg-primary focus:bg-primary border-gray-200 rounded-lg shadow-sm" placeholder="Bio"></textarea>
 
    
 
@@ -60,11 +61,11 @@
        
       </p>
 
-      <a class="inline-block p-[2px] rounded " href="/download">
-  <span class="block px-8 py-3 text-sm font-medium bg-secondary-focus rounded-sm hover:bg-transparent">
+      
+  <button type="submit" class="block px-8 py-3 text-sm font-medium bg-secondary-focus rounded-sm hover:bg-transparent">
     Send It 
-  </span>
-</a>
+  </button>
+
     </div>
   </form>
 </div>
