@@ -30,7 +30,6 @@
 <select data-choose-theme class="select font-medium border hover:z-10 focus:outline-none focus:bg-primary focus:z-10 hover:bg-gray-50 active:opacity-75 justify-evenly w-full max-w-xs " type="button">
   
   <option value="cyberpunk">🤖 Cyberpunk</option> 
-  <option value="forest">🌙 Forest</option> 
   <option value="retro">📺 Retro</option> 
   <option value="aqua">🟦 Ocean</option> 
   <option value="wireframe">📓 Wireframe</option> 
@@ -44,7 +43,7 @@
 
 <a href="#enter">
   <button
-    class="normal-case first-letter:px-15 py-3 btn btn-xs sm:btn-md md:btn-md lg:btn-md hover:bg-gradient-to-r from-primary via-secondary to-accent-focus"
+    class="normal-case justify-center first-letter:px-15 py-3 btn btn-md sm:btn-md md:btn-md lg:btn-md hover:bg-gradient-to-r from-primary via-secondary to-accent-focus"
     type="button"
   >
  Enter </button></a>

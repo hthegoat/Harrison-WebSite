@@ -22,7 +22,7 @@
 
       <!-- Navbar -->
       <div class="hidden md:block">
-        <ul class="flex space-x-16 text-sm font-sans">
+        <ul class="flex space-x-16 text-md font-bold font-sans">
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
           <li><NuxtLink to="/about" class="">About</NuxtLink></li>
           <li><a href="https://FreshSaltAgency.com" target="_blank" class="">Agency</a></li>
@@ -48,7 +48,7 @@
       </transition>
 
       <!-- Drawer Menu -->
-      <aside class="p-5 transform top-0 left-0 w-64 bg-white fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30" :class="isOpen ? 'translate-x-0' : '-translate-x-full'">
+      <aside class="p-5 transform top-0 left-0 w-64 bg-primary fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30" :class="isOpen ? 'translate-x-0' : '-translate-x-full'">
         
         <div class="close">
           <button class="absolute top-0 right-0 mt-4 mr-4" @click=" isOpen = false">
@@ -62,16 +62,16 @@
           </button>
         </div>
 
-        <span @click="isOpen = false" class="flex w-full items-center bg-primary p-4 border-b">
+        <span @click="isOpen = false" class="flex w-full items-center p-4 border-b">
           <Tailwind />
         </span>
 
-        <ul class="divide-y font-sans">
-          <li><NuxtLink to="/" @click="isOpen = false" class="my-4 text-black inline-block">Home</NuxtLink></li>
-          <li><NuxtLink to="/about" @click="isOpen = false" class="my-4 text-black inline-block">About</NuxtLink></li>
-          <li><a href="https://freshsaltagency.com" @click="isOpen = false" class="my-4 text-black inline-block">Agency</a></li>
-          <li><a href="#" @click="isOpen = false" class="my-4 text-black inline-block">Crowdfunding </a></li>
-          <li><a href="#contact" @click="isOpen = false" class="my-4 text-black inline-block">Contact</a></li>
+        <ul class=" divide-y font-sans">
+          <li><NuxtLink to="/" @click="isOpen = false" class="my-4 text-primary-accent inline-block">Home</NuxtLink></li>
+          <li><NuxtLink to="/about" @click="isOpen = false" class="my-4 text-primary-accent inline-block">About</NuxtLink></li>
+          <li><a href="https://freshsaltagency.com" @click="isOpen = false" class="my-4 text-primary-accent inline-block">Agency</a></li>
+          <li><a href="#" @click="isOpen = false" class="my-4 text-primary-accent inline-block">Crowdfunding </a></li>
+          <li><a href="#contact" @click="isOpen = false" class="my-4 text-primary-accent inline-block">Contact</a></li>
           
         </ul>
 
