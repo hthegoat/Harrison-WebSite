@@ -46,18 +46,17 @@
       <nav
         class="relative flex flex-wrap justify-center gap-8 p-8 text-sm font-bold border-4 border-primary-content rounded-xl"
       >
-        <a
+        <NuxtLink
           class="hover:opacity-75"
-          href="https://hyperui.dev"
-          target="_blank"
+          to="/"
           rel="noopener noreferrer"
         >
           Home
-        </a>
+        </NuxtLink>
 
         <a
           class="hover:opacity-75"
-          href="user"
+          href="https://FreshSaltAgency.com"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -84,14 +83,11 @@
       </nav>
 
       <p class="max-w-lg mx-auto text-xs text-gray-500">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, natus
-        tempore illo laborum nam, modi quam sequi amet quo quasi impedit iure
-        eum similique pariatur alias exercitationem, porro perspiciatis esse.
-        Corporis odit consequatur sint sequi.
+        
 
         <a
           class="block mt-1 text-pink-600 underline decoration-wavy decoration-pink-500 hover:opacity-75"
-          href="/external"
+          href="https://FreshSaltAgency.com"
           target="_blank"
           rel="noopener noreferrer"
         >
